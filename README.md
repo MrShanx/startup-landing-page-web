@@ -11,4 +11,4 @@ The email marketing subscription form is offered by <strong><em>MailChimp</em></
 
 Webpage created with <em><strong>Bootstrap 4</em></strong> and modified to fit creative needs.<br>
 Added <em><strong>media queries</em></strong> for subscribe button responsiveness. <br>
-And embedded <em><strong>MailChimp/em></strong> signup form for email subscriptions. 
+And embedded <em><strong>MailChimp</em></strong> signup form for email subscriptions. 
